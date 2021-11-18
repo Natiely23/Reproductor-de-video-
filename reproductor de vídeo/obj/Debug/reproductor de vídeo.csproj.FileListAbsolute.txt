@@ -1,0 +1,15 @@
+C:\Users\Las mellas\source\repos\reproductor de vídeo\reproductor de vídeo\bin\Debug\reproductor de vídeo.exe.config
+C:\Users\Las mellas\source\repos\reproductor de vídeo\reproductor de vídeo\bin\Debug\reproductor de vídeo.exe
+C:\Users\Las mellas\source\repos\reproductor de vídeo\reproductor de vídeo\bin\Debug\reproductor de vídeo.pdb
+C:\Users\Las mellas\source\repos\reproductor de vídeo\reproductor de vídeo\bin\Debug\Interop.WMPLib.dll
+C:\Users\Las mellas\source\repos\reproductor de vídeo\reproductor de vídeo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Las mellas\source\repos\reproductor de vídeo\reproductor de vídeo\obj\Debug\reproductor de vídeo.csprojAssemblyReference.cache
+C:\Users\Las mellas\source\repos\reproductor de vídeo\reproductor de vídeo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Las mellas\source\repos\reproductor de vídeo\reproductor de vídeo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Las mellas\source\repos\reproductor de vídeo\reproductor de vídeo\obj\Debug\reproductor de vídeo.csproj.ResolveComReference.cache
+C:\Users\Las mellas\source\repos\reproductor de vídeo\reproductor de vídeo\obj\Debug\reproductor_de_vídeo.Form1.resources
+C:\Users\Las mellas\source\repos\reproductor de vídeo\reproductor de vídeo\obj\Debug\reproductor_de_vídeo.Properties.Resources.resources
+C:\Users\Las mellas\source\repos\reproductor de vídeo\reproductor de vídeo\obj\Debug\reproductor de vídeo.csproj.GenerateResource.cache
+C:\Users\Las mellas\source\repos\reproductor de vídeo\reproductor de vídeo\obj\Debug\reproductor de vídeo.csproj.CoreCompileInputs.cache
+C:\Users\Las mellas\source\repos\reproductor de vídeo\reproductor de vídeo\obj\Debug\reproductor de vídeo.exe
+C:\Users\Las mellas\source\repos\reproductor de vídeo\reproductor de vídeo\obj\Debug\reproductor de vídeo.pdb
